@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1625183366 source:d:\universidad\laboratorio 1\tp parcial integrador\tp parcial\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"Function.h"
+
+1625182980 d:\universidad\laboratorio 1\tp parcial integrador\tp parcial\function.h
+
+1625229496 source:d:\universidad\laboratorio 1\batallanaval\batallanaval\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"Function.h"
+
+1625182980 d:\universidad\laboratorio 1\batallanaval\batallanaval\function.h
+
